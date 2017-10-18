@@ -1,0 +1,429 @@
+body{
+    background-color: #2d2d2d;
+}
+.bigImg{
+    width: 100%;
+    /*width: 1200px;*/
+}
+/*主体部分开始*/
+/*文字说明开始*/
+.main{
+    width: 100%;
+    height: 3720px;
+    position: relative;
+    padding-top: 25px;
+}
+.mian-body{
+    width: 963px;
+    height: 3000px;
+    margin: 0 auto;
+    position: relative;
+}
+.artitle{
+    width: 963px;
+    height: 193px;
+    margin: 0 auto 0;
+    position: relative;
+    overflow: hidden;
+}
+.artitle img,.artitle .title{
+    float: left;
+}
+.artitle .title{
+    width: 915px;
+    height: 160px;
+    padding-top: 33px;
+    text-align: center;
+    background-color: #716a6a;
+}
+.title p{
+    margin: 0 auto;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 5px;
+}
+/*文字说明结束*/
+/*签约基础保障金开始*/
+.security{
+    width: 963px;
+    height: 1004px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+    position: relative;
+}
+.yellowTop{
+    width: 100%;
+    height: 63px;
+    border-radius: 5px;
+    background-color: #fdd40a;
+    overflow: hidden;
+}
+.yellowTop img{
+    display: block;
+    margin: 10px auto;
+}
+.bigtitle{
+    width: 560px;
+    margin: 25px auto;
+    font-size: 16px;
+    color: #fff;
+}
+.security h4,.longer{
+    width: 320px;
+    margin: 0 auto 20px;
+    font-family: "微软雅黑";
+    font-size: 20px;
+    color: #eec91d;
+}
+.tabA{
+    width: 605px;
+    height: 195px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: #5d5656;
+}
+.smyellow{
+    width: 100%;
+    height: 40px;
+    background-color: #fdd40a;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+}
+.smyellow .spleft,.smyellow .spright{
+    width: 220px;
+    height: 100%;
+    line-height: 40px;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    color: #2d2d2d;
+}
+.smyellow .spright{
+    width: 383px;
+}
+.level{
+    width:100%;
+    height: 150px;
+}
+.level .leLeft{
+    width: 220px;
+    height: 150px;
+    float: left;
+}
+.level .money{
+    width: 385px;
+    height: 146px;
+    float: left;
+}
+.leLeft li,.money li{
+    width: 100%;
+    height: 51px;
+    line-height: 51px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    border-right: 1px solid #716a6a;
+    border-bottom: 1px solid #716a6a;
+}
+.tabA .money li{
+    border-right: 0;
+}
+.level .b-bottom{
+    border-bottom: 0;
+}
+.ex-money{
+    width: 565px;
+    margin: 35px auto 30px;
+    font-family: "微软雅黑";
+    font-size: 20px;
+    color: #eec91d;
+}
+.tabB{
+    width: 605px;
+    height: 295px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: #5d5656;
+}
+.tabB .smyellow .spleft,.tabB .smyellow .spright{
+    width: 50%;
+}
+.ex-aword{
+    width: 100%;
+    height: 255px;
+    overflow: hidden;
+}
+.ex-aword .ex-dollor,.ex-aword .ex-aw{
+    width: 50%;
+    float: left;
+}
+.ex-dollor li,.ex-aw li{
+    width: 100%;
+    height: 51px;
+    line-height: 51px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    border-right: 1px solid #716a6a;
+    border-bottom: 1px solid #716a6a;
+}
+.explain{
+    width: 95px;
+    height: 40px;
+    margin: 15px 0 15px 120px;
+    background-color: #e9d77c;
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 40px;
+    padding-left: 4px;
+    text-align: center;
+}
+.welfare{
+    width: 675px;
+    line-height: 32px;
+    margin: 0 0 0 130px;
+    font-size: 14px;
+    color: #fff;
+}
+/*签约基础保障金结束*/
+/*二大神签约金*/
+.manito{
+    width: 963px;
+    height: 300px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+}
+.manito P{
+    width: 655px;
+    margin: 0 auto;
+    font-size: 16px;
+    line-height: 32px;
+    color: #fff;
+}
+.p-top{
+    height: 60px;
+    padding-top: 25px;
+}
+/*大神签约金结束*/
+/*三短篇作品扶植计划开始*/
+.plan{
+    width: 963px;
+    height: 540px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+}
+.plan .yellowTop img{
+    margin-top: 13px;
+}
+.reader{
+    width: 630px;
+    height: 55px;
+    line-height: 30px;
+    text-align: center;
+    margin: 30px auto 30px;
+    font-size: 18px;
+    color: #fff;
+}
+.planLast{
+    width: 605px;
+    height: 142px;
+    border-radius: 5px;
+    margin: 0 auto;
+    background-color: #5d5656;
+}
+.planLast .smyellow{
+    width: 605px;
+}
+.planLast .smyellow .spleft,.planLast .smyellow .spright{
+    width: 302px;
+}
+#plan-bt,#plan-ba{
+    border-bottom: 0;
+}
+.plan .plan-p{
+    width: 500px;
+    margin-left: 130px;
+    font-size: 14px;
+    line-height: 30px;
+    color: #fff;
+}
+/*短篇作品扶植计划结束*/
+/*四老作者新文续约奖开始*/
+.old-write{
+    width: 963px;
+    height: 615px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+}
+.old-write .yellowTop img{
+    margin-top: 13px;
+}
+.longer{
+    width: 320px;
+    padding-top: 25px;
+}
+.old-write .tabA .smyellow .spleft,.old-write .tabA .smyellow .spright{
+    width: 50%;
+}
+.old-write .tabA .level .leLeft,.old-write .tabA .level .money{
+    width: 50%;
+}
+#longer{
+    width: 640px;
+    padding: 0;
+}
+/*老作者新文续约奖结束*/
+/*五优质作品特别扶植计划开始*/
+.quality{
+    width: 963px;
+    height: 245px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+}
+.quality .yellowTop img{
+    margin-top: 13px;
+}
+.qWorks{
+    width: 655px;
+    height: 100px;
+    margin: 45px auto;
+}
+.qWorks p{
+    width: 100%;
+    font-size: 16px;
+    line-height: 30px;
+    color: #fff;
+}
+/*优质作品特别扶植计划结束*/
+/*六版权代理费收取业界最低标准开始*/
+.low-money{
+    width: 963px;
+    height: 175px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+}
+.low-money p{
+    width: 650px;
+    margin: 40px auto;
+    font-size: 16px;
+    color: #fff;
+}
+/*六版权代理费收取业界最低标准结束*/
+/*漫画影视出版游戏改编开始*/
+.correct{
+    width: 963px;
+    height: 335px;
+    border-radius: 5px;
+    background-color: #716a6a;
+    margin: 25px auto 0;
+    position: relative;
+}
+.correct .yellowTop img{
+    margin-top: 15px;
+}
+.correct-p{
+    width: 600px;
+    height: 50px;
+    margin: 25px auto;
+}
+.correct-p p{
+    line-height: 25px;
+    font-size: 16px;
+    color: #fff;
+}
+.yellowworld{
+    line-height: 30px;
+    margin-left: 130px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #f6ce15;
+}
+.footerImg{
+    position: absolute;
+    left: -16px;
+    top: 224px;
+}
+/*钩子*/
+.tipOne{
+    position: absolute;
+    top: 165px;
+    left: 50px;
+}
+.tipTwo{
+    position: absolute;
+    top: 165px;
+    right: 50px;
+}
+.tipThree{
+    position: absolute;
+    top: 1194px;
+    left: 50px;
+}
+.tipFour{
+    position: absolute;
+    top: 1194px;
+    right: 50px;
+}
+.tipFive{
+    position: absolute;
+    top: 1520px;
+    left: 50px;
+}
+.tipSix{
+    position: absolute;
+    top: 1520px;
+    right: 50px;
+}
+.tipSeven{
+    position: absolute;
+    top: 2084px;
+    left: 50px;
+}
+.tipEight{
+    position: absolute;
+    top: 2084px;
+    right: 50px;
+}
+.tipNine{
+    position: absolute;
+    top: 2725px;
+    left: 50px;
+}
+.tipTen{
+    position: absolute;
+    top: 2725px;
+    right: 50px;
+}
+.tipEE{
+    position: absolute;
+    top: 2994px;
+    left: 50px;
+}
+.tipTT{
+    position: absolute;
+    top: 2994px;
+    right: 50px;
+}
+.tipTH{
+    position: absolute;
+    top: 3195px;
+    left: 50px;
+}
+.tipFF{
+    position: absolute;
+    top: 3195px;
+    right: 50px;
+}
+/*最后大图*/
+.last-img{
+    width: 100%;
+    position: absolute;
+    top: 3480px;
+}
+/*漫画影视出版游戏改编结束*/
